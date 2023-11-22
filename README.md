@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Abdenour el Faddali
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  surface plane 
  
 </details>
 
@@ -36,15 +36,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  de telegraaf.
+  https://www.telegraaf.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ home pagina
+ <img width="1429" alt="Scherm­afbeelding 2023-11-22 om 15 58 13" src="https://github.com/Abdenourf/blok-web-/assets/150844554/a6330d4b-b151-4f5a-aa36-a4ce1ac13839">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  nieuws
+  <img width="1426" alt="Scherm­afbeelding 2023-11-22 om 15 58 45" src="https://github.com/Abdenourf/blok-web-/assets/150844554/4bd2bfae-5461-43c0-b46a-61e07f3ebde7">
  
 </details>
 
