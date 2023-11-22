@@ -36,17 +36,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  de telegraaf.
-  https://www.telegraaf.nl/
+  bol.com
+](https://www.bol.com/nl/nl/)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
  home pagina
- <img width="1429" alt="Scherm­afbeelding 2023-11-22 om 15 58 13" src="https://github.com/Abdenourf/blok-web-/assets/150844554/a6330d4b-b151-4f5a-aa36-a4ce1ac13839">
+ <img width="1440" alt="Scherm­afbeelding 2023-11-22 om 16 10 19" src="https://github.com/Abdenourf/blok-web-/assets/150844554/131709c3-52d0-46ef-be36-5b9d6987fccf">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  nieuws
-  <img width="1426" alt="Scherm­afbeelding 2023-11-22 om 15 58 45" src="https://github.com/Abdenourf/blok-web-/assets/150844554/4bd2bfae-5461-43c0-b46a-61e07f3ebde7">
- 
+  black friday deals
+  <img width="1439" alt="Scherm­afbeelding 2023-11-22 om 16 11 09" src="https://github.com/Abdenourf/blok-web-/assets/150844554/4bda6d38-f538-4e0a-ad0f-52d937e2f52a">
+
 </details>
 
 
